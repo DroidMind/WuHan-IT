@@ -46,7 +46,7 @@
 
 小米的口碑在业界并不是特别的好，被人诟病最多的就是涨薪和管理问题，但是在武汉来说，小米确实是难得的机会，在武汉像小米这样的机会也特别的少，目前也是正值小米武汉疯狂扩张的时候，还在大肆的招人，如果家在武汉或者想在武汉长期发展的话，确实还是值得考虑的。
 
-招聘岗位：http://job.hr.xiaomi.com/#/jobs/?keyword=&location=武汉市&page=1&_k=7s2zq3
+**官网招聘岗位**：http://job.hr.xiaomi.com/#/jobs/?keyword=&location=武汉市&page=1&_k=7s2zq3
 
 **如果你对小米武汉总部有任何的看法，欢迎踊跃讨论：https://github.com/DroidMind/WuHan-IT/issues/3**
 
@@ -58,7 +58,7 @@
 
 从部门业务来看，字节跳动在武汉的定位不算核心，基本是将比较边缘的业务放在像武汉这样的二线城市，虽然飞书目前的发展势头还算可以，从面向内部员工使用到现在开始做toB，但是从诚意来看，武汉应该并不算字节跳动重点布局的城市，所以规模不会很大，不过在武汉，字节跳动确实也是非常不错的选择，毕竟待遇上可以吊打其他各个互联网公司。
 
-招聘岗位：https://job.bytedance.com/society?summary=873&city=154&q1=&position_type=
+**官网招聘岗位**：https://job.bytedance.com/society?summary=873&city=154&q1=&position_type=
 
 **如果你对头条武汉（字节跳动武汉）有任何的看法，欢迎踊跃讨论：https://github.com/DroidMind/WuHan-IT/issues/4**
 
